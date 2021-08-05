@@ -1,0 +1,97 @@
+/* Font */
+.font-10 {
+    font-size: 10px;
+}
+.font-11 {
+    font-size: 11px;
+}
+.font-12 {
+    font-size: 12px;
+}
+.font-13 {
+    font-size: 13px;
+}
+.font-14 {
+    font-size: 14px;
+}
+.font-15 {
+    font-size: 15px;
+}
+.font-16 {
+    font-size: 16px;
+}
+.font-17 {
+    font-size: 17px;
+}
+.font-18 {
+    font-size: 18px;
+}
+.font-19 {
+    font-size: 19px;
+}
+.font-20 {
+    font-size: 20px;
+}
+.font-22 {
+    font-size: 22px;
+}
+.font-24 {
+    font-size: 24px;
+}
+.font-25 {
+    font-size: 25px;
+}
+.font-26 {
+    font-size: 26px;
+}
+.font-27 {
+    font-size: 27px;
+}
+.font-28 {
+    font-size: 28px;
+}
+.font-29 {
+    font-size: 29px;
+}
+.font-30 {
+    font-size: 30px;
+}
+.font-cl {
+    font-family: "ChulabhornLikitDisplay";
+}
+
+/* Hover */
+.cursor--pointer {
+    cursor: pointer;
+}
+
+/* Events Card */
+.event-image:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.205);
+}
+.event-title:hover {
+    cursor: pointer;
+    color: rgb(0, 102, 179);
+    /* color: #F23023; */
+
+}
+.event-title {
+    font-family: "ChulabhornLikitDisplay";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 118%;
+    letter-spacing: -0.01em;
+}
+
+.event-category {
+    padding-bottom: 1px;
+    border-bottom: 2px solid #000;
+     line-height: 30px;
+}
+.event-category:hover {
+   /* cursor: pointer;
+   color: rgb(0, 102, 179);
+   font-weight: bold; */
+}

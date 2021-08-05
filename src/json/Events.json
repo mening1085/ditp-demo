@@ -1,0 +1,139 @@
+
+    {
+        "event_name" : "Thai Food @home",
+        "banner_events": {
+            "desktop": 
+                [
+                    { "banner" : "@/assets/images/events/banner/Marche_by_STYLE_Online_Busi_Matching_1282.jpeg"},
+                    { "banner" : "@/assets/images/events/banner/Marche_by_STYLE_Physical_1282.jpeg"},
+                    { "banner" : "@/assets/images/events/banner/Marche_by_STYLE_Virtual_1282.jpeg"}
+                ],
+            "mobile": 
+                [
+                    { "banner" : "@/src/assets/images/events/banner/mobile/Marche_by_STYLE_Online_Busi_Matching_375.jpeg"},
+                    { "banner" : "@/src/assets/images/events/banner/mobile/Marche_by_STYLE_Physical_375.jpeg"},
+                    { "banner" : "@/src/assets/images/events/banner/mobile/Marche_by_STYLE_Virtual_375.jpeg"},
+                    { "banner" : "url(@/src/assets/images/events/banner/mobile/Marche_by_STYLE_Virtual_375.jpeg)"}
+                ]
+        },
+       
+    
+        "events" : [
+            {
+                "event_id": 1,
+                "event_name": "The Marche’ by STYLE Bangkok Virtual Trade Fair",
+                "date": "August 19 - 25, 2021 ",
+                "time": "Thailand, UTC+07:00",
+                "location": "Bangkok, Thailand",
+                "view": 200000,
+                "type_id": 1,
+                "type_name": "Online",
+
+                "categories" : [
+                    {"category_id": 1,"category_name": "Fashion"},
+                    {"category_id": 2,"category_name": "Home & Living"}
+                ],
+
+                "sub_categories" : [
+                    {"subCategory_id": 1,"subCategory_name": "Furniture"},
+                    {"subCategory_id": 2,"subCategory_name": "Household Products"},
+                    {"subCategory_id": 3,"subCategory_name": "Gifts, Decorative & Handicrafts"},
+                    {"subCategory_id": 4,"subCategory_name": "Toys & Games"},
+                    {"subCategory_id": 5,"subCategory_name": "Stationary & Office Supplies"},
+                    {"subCategory_id": 6,"subCategory_name": "Traveling & Sporting Goods"},
+                    {"subCategory_id": 7,"subCategory_name": "Gems & Jewelry"},
+                    {"subCategory_id": 8,"subCategory_name": "Textiles"},
+                    {"subCategory_id": 9,"subCategory_name": "Apparel & Accessory"},
+                    {"subCategory_id": 10,"subCategory_name": "Leather, PVC & Footwear"}
+                ],
+     
+                "about_event": "<p><strong>ABOUT STYLE</strong></p><p>STYLE Bangkok is an international trade fair that offers all sorts of lifestyle products. Gathering the latest products that shape tomorrow&rsquo;s trends from gifts, home decor, furniture to fashion and more. Held under &ldquo;Crenovative Origin&rdquo; that combines and highlights &ldquo;Creative&rdquo;, &ldquo;Innovation&rdquo;, and Thai &ldquo;Original&rdquo; identity to respond to the new lifestyle product trends. The fair is annually held in October and is a combination of three prestige international trade fairs, namely Bangkok International Fashion</p>",
+
+                "description_left": "<p><strong>WHY VISIT : An Ultimate Trade Fair to Maximize Your Travel Costs!</strong></p><ul><li>A perfect opportunity to shop for a wide selection of finest lifestyle quality products from more than 1,000 companies. These products appeal to customers of different ages and demands, and most importantly, they come in unique and outstanding designs.</li><li>The Expo is bringing the top exhibitors from &ldquo;Niche Markets&rdquo; including elderly care products, baby, kids and mum products, pet products, the &ldquo;Demark&rdquo; award-winning products and &ldquo;I+D Style Caf&eacute;&rdquo; Prototype Caf&eacute;.</li><li>Networking opportunities with the participants from ASEAN nations in CLMV zone and International Pavilion.</li><li>Up-and-coming topic Seminars / Business Matching services / Lifestyle product Fashion Shows</li></ul>",
+
+                "description_right": "<p><iframe title='YouTube video player' src='//www.youtube.com/embed/jJKHTJy_eek' width='560' height='315' frameborder='0' allowfullscreen='allowfullscreen'></iframe></p>",
+
+                "cover_image": "@/assets/images/events/thumbnail/Marche_by_STYLE_Virtual_302.jpeg",
+                "banner_image": "xxxxxxxx",
+                "event_image": "xxxxxxxx"
+            },
+
+
+            {
+                "event_id": 2,
+                "event_name": "The Marche’ by STYLE Bangkok Online Business Matching",
+                "date": "August 23 - 25, 2021 ",
+                "time": "Thailand, UTC+07:00",
+                "location": "Bangkok, Thailand",
+                "type_id": 1,
+                "type_name": "Online",
+
+                 "categories" : [
+                    {"category_id": 1,"category_name": "Fashion"},
+                    {"category_id": 2,"category_name": "Home & Living"}
+                ],
+
+                "sub_categories" : [
+                    {"subCategory_id": 1,"subCategory_name": "Furniture"},
+                    {"subCategory_id": 2,"subCategory_name": "Household Products"},
+                    {"subCategory_id": 3,"subCategory_name": "Gifts, Decorative & Handicrafts"},
+                    {"subCategory_id": 4,"subCategory_name": "Toys & Games"},
+                    {"subCategory_id": 5,"subCategory_name": "Stationary & Office Supplies"},
+                    {"subCategory_id": 6,"subCategory_name": "Traveling & Sporting Goods"},
+                    {"subCategory_id": 7,"subCategory_name": "Gems & Jewelry"},
+                    {"subCategory_id": 8,"subCategory_name": "Textiles"},
+                    {"subCategory_id": 9,"subCategory_name": "Apparel & Accessory"},
+                    {"subCategory_id": 10,"subCategory_name": "Leather, PVC & Footwear"}
+                ],
+     
+                "about_event": "<p><strong>ABOUT STYLE</strong></p><p>STYLE Bangkok is an international trade fair that offers all sorts of lifestyle products. Gathering the latest products that shape tomorrow&rsquo;s trends from gifts, home decor, furniture to fashion and more. Held under &ldquo;Crenovative Origin&rdquo; that combines and highlights &ldquo;Creative&rdquo;, &ldquo;Innovation&rdquo;, and Thai &ldquo;Original&rdquo; identity to respond to the new lifestyle product trends. The fair is annually held in October and is a combination of three prestige international trade fairs, namely Bangkok International Fashion</p>",
+
+                "description_left": "<p><strong>WHY VISIT : An Ultimate Trade Fair to Maximize Your Travel Costs!</strong></p><ul><li>A perfect opportunity to shop for a wide selection of finest lifestyle quality products from more than 1,000 companies. These products appeal to customers of different ages and demands, and most importantly, they come in unique and outstanding designs.</li><li>The Expo is bringing the top exhibitors from &ldquo;Niche Markets&rdquo; including elderly care products, baby, kids and mum products, pet products, the &ldquo;Demark&rdquo; award-winning products and &ldquo;I+D Style Caf&eacute;&rdquo; Prototype Caf&eacute;.</li><li>Networking opportunities with the participants from ASEAN nations in CLMV zone and International Pavilion.</li><li>Up-and-coming topic Seminars / Business Matching services / Lifestyle product Fashion Shows</li></ul>",
+
+                "description_right": "<p><iframe title='YouTube video player' src='//www.youtube.com/embed/jJKHTJy_eek' width='560' height='315' frameborder='0' allowfullscreen='allowfullscreen'></iframe></p>",
+                "cover_image": "@/assets/images/events/thumbnail/Marche_by_STYLE_Online_Busi_Matching_302.jpeg",
+                "banner_image": "xxxxxxxx",
+                "event_image": "xxxxxxxx"
+                
+            },
+
+
+            {
+                "event_id": 3,
+                "event_name": "The Marche’ by STYLE Bangkok (Lifestyle Fair)",
+                "date": "October - December 2021 ",
+                "time": "Thailand, UTC+07:00",
+                "location": "Bangkok, Thailand",
+                "type_id": 2,
+                "type_name": "Thailand",
+
+                 "categories" : [
+                    {"category_id": 1,"category_name": "Fashion"},
+                    {"category_id": 2,"category_name": "Home & Living"}
+                ],
+
+                "sub_categories" : [
+                    {"subCategory_id": 1,"subCategory_name": "Furniture"},
+                    {"subCategory_id": 2,"subCategory_name": "Household Products"},
+                    {"subCategory_id": 3,"subCategory_name": "Gifts, Decorative & Handicrafts"},
+                    {"subCategory_id": 4,"subCategory_name": "Toys & Games"},
+                    {"subCategory_id": 5,"subCategory_name": "Stationary & Office Supplies"},
+                    {"subCategory_id": 6,"subCategory_name": "Traveling & Sporting Goods"},
+                    {"subCategory_id": 7,"subCategory_name": "Gems & Jewelry"},
+                    {"subCategory_id": 8,"subCategory_name": "Textiles"},
+                    {"subCategory_id": 9,"subCategory_name": "Apparel & Accessory"},
+                    {"subCategory_id": 10,"subCategory_name": "Leather, PVC & Footwear"}
+                ],
+     
+                "about_event": "<p><strong>ABOUT STYLE</strong></p><p>STYLE Bangkok is an international trade fair that offers all sorts of lifestyle products. Gathering the latest products that shape tomorrow&rsquo;s trends from gifts, home decor, furniture to fashion and more. Held under &ldquo;Crenovative Origin&rdquo; that combines and highlights &ldquo;Creative&rdquo;, &ldquo;Innovation&rdquo;, and Thai &ldquo;Original&rdquo; identity to respond to the new lifestyle product trends. The fair is annually held in October and is a combination of three prestige international trade fairs, namely Bangkok International Fashion</p>",
+
+                "description_left": "<p><strong>WHY VISIT : An Ultimate Trade Fair to Maximize Your Travel Costs!</strong></p><ul><li>A perfect opportunity to shop for a wide selection of finest lifestyle quality products from more than 1,000 companies. These products appeal to customers of different ages and demands, and most importantly, they come in unique and outstanding designs.</li><li>The Expo is bringing the top exhibitors from &ldquo;Niche Markets&rdquo; including elderly care products, baby, kids and mum products, pet products, the &ldquo;Demark&rdquo; award-winning products and &ldquo;I+D Style Caf&eacute;&rdquo; Prototype Caf&eacute;.</li><li>Networking opportunities with the participants from ASEAN nations in CLMV zone and International Pavilion.</li><li>Up-and-coming topic Seminars / Business Matching services / Lifestyle product Fashion Shows</li></ul>",
+
+                "description_right": "<p><iframe title='YouTube video player' src='//www.youtube.com/embed/jJKHTJy_eek' width='560' height='315' frameborder='0' allowfullscreen='allowfullscreen'></iframe></p>",
+                "cover_image": "@/assets/images/events/thumbnail/Marche_by_STYLE_Physical_302.jpeg",
+                "banner_image": "xxxxxxxx",
+                "event_image": "xxxxxxxx"
+                
+            }
+        ]
+    }
